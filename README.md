@@ -10,8 +10,4 @@
 
 
 
-zxczc
-
-p,,p
-
 man u 
